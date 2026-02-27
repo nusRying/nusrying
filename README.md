@@ -1,15 +1,87 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Real-time AI systems, embedded control projects, and building scalable AI-powered applications — including computer vision pipelines and intelligent automation systems.<br><br>🤝 I’m looking to collaborate on<br>Machine Learning, Reinforcement Learning, Computer Vision, Embedded Systems, and high-performance real-time applications (especially where AI meets hardware).<br><br>🛠 I’m looking for help with<br>Scaling AI systems to production, distributed architectures, advanced DevOps for ML, and optimizing real-time inference pipelines.<br><br>🌱 I’m currently learning<br>Advanced Reinforcement Learning, multi-agent systems, large-scale ML deployment, and game engine architecture for real-time multiplayer systems.<br><br>💬 Ask me about<br>Embedded C, RTOS, STM32 development, ML model building, signal processing, system design, or integrating AI into real-world hardware systems.<br><br>⚡ Fun fact<br>I enjoy building things that move — from motor controllers and wearable health devices to intelligent systems that make real-time decisions.
+<!-- ===================================================== -->
+<!--                   HEADER SECTION                      -->
+<!-- ===================================================== -->
 
+<h1 align="center">Hi 👋, I'm Umair Ejaz</h1>
+<h3 align="center">AI Engineer | Embedded Systems Engineer | Computer Vision Developer</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umair_ejaz04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/umair-ejaz-electrical-engineer/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:engr.umairejaz@gmail.com) 
+<p align="center">
+Building intelligent systems that bridge hardware and AI.
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-<!-- ======================= GitHub Stats Section ======================= -->
+<p align="center">
+  <a href="https://github.com/nusRying">
+    <img src="https://komarev.com/ghpvc/?username=nusRying&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
+</p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+---
+
+## 🧠 About Me
+
+- 🎓 Electrical Engineering background with strong focus on **AI + Embedded Systems**
+- 🤖 Building Computer Vision & Pose Estimation pipelines
+- ⚡ Experienced in RTOS, STM32, PCB Design, and hardware-software integration
+- 📊 Strong foundation in Machine Learning & Data Science
+- 🔬 Interested in Reinforcement Learning, Biomechanics AI, and Intelligent Systems
+- 🌍 Open to collaborating on **Open Source AI / Embedded / CV projects**
+
+---
+
+## 🚀 Currently Working On
+
+- 📹 Sports Biomechanics AI Video Pipeline (Pose → 3D → Metrics)
+- 🤖 AI-powered chatbot systems with CRM integration
+- 🔬 Real-world ML model deployment & system optimization
+
+---
+
+## 🤝 Open Source & Collaboration
+
+I’m actively looking to:
+
+- Contribute to **AI / ML / Computer Vision** open-source projects  
+- Collaborate on **Embedded + AI integration systems**
+- Work on impactful research-driven engineering solutions  
+- Join high-performance engineering teams
+
+If you're building something ambitious — let's connect.
+
+---
+
+<!-- ===================================================== -->
+<!--                    TECH STACK                         -->
+<!-- ===================================================== -->
+
+## 🛠 Tech Stack
+
+### 👨‍💻 Programming & AI
+<p>
+Python • C • C++ • Embedded C • MATLAB • SQL
+</p>
+
+### 🤖 Machine Learning & CV
+<p>
+PyTorch • TensorFlow • OpenCV • MediaPipe • Scikit-Learn • Pandas • NumPy
+</p>
+
+### ⚙ Embedded & Hardware
+<p>
+STM32 • ESP32 • RTOS • PCB Design • KiCad • Power Electronics
+</p>
+
+### 🌐 Development & Tools
+<p>
+Git • GitHub • Docker • Linux • VS Code • REST APIs • n8n
+</p>
+
+---
+
+<!-- ===================================================== -->
+<!--                    GITHUB STATS                       -->
+<!-- ===================================================== -->
+
+## 📊 GitHub Analytics
 
 <p align="center">
   <img 
@@ -29,9 +101,9 @@
   />
 </p>
 
-<!-- ======================= Activity Graph ======================= -->
+---
 
-<h2 align="center">📈 Contribution Activity</h2>
+## 📈 Contribution Activity
 
 <p align="center">
   <img 
@@ -39,10 +111,22 @@
   />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=nusrying&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
+
+<!-- ===================================================== -->
+<!--                CONTACT SECTION                        -->
+<!-- ===================================================== -->
+
+## 📫 Let's Connect
+
+- 💼 Open to Open-Source Contributions
+- 🤝 Open to Collaboration
+- 🚀 Open to AI Engineering Opportunities
+
+📩 Reach out via GitHub or connect professionally.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nusrying&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">
+⚡ Engineering Intelligent Systems from Silicon to AI ⚡
+</h3>
