@@ -19,7 +19,7 @@ jobs:
           fetch-depth: 2
 
       - name: Generate contribution space shooter
-        uses: czl9707/gh-space-shooter@v2
+        uses: czl9707/gh-space-shooter@eea3dd4d83e464ec7c4153e09e303952b924f5c5
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           username: nusRying
