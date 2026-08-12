@@ -164,23 +164,27 @@ Embedded systems, control, signal processing, electronics, and machine learning.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusRying&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusRying&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nusRying&theme=tokyonight" height="180" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nusRying&theme=tokyonight" height="180" alt="Repositories per language" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=nusRying&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nusRying&theme=tokyonight" height="180" alt="Most committed languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nusRying&theme=tokyonight&utcOffset=12" height="180" alt="Productive coding time" />
 </p>
 
 ---
 
 ## 🤝 Build With Me
 
-I'm interested in collaborating on **agentic AI, RAG, computer vision, medical imaging, embedded AI, intelligent automation, and interpretable machine learning**.
+<p align="center">
+  I’m open to collaborations in <b>agentic AI, RAG, computer vision, medical imaging, embedded AI, intelligent automation, and interpretable machine learning</b>.
+</p>
 
 <p align="center">
-  <a href="mailto:engr.umairejaz@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-Email_Me-0e75b6?style=for-the-badge" alt="Email Umair" /></a>
-  <a href="https://www.linkedin.com/in/umair-ejaz-ai-engineer"><img src="https://img.shields.io/badge/CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="mailto:engr.umairejaz@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Umair" /></a>
+  <a href="https://www.linkedin.com/in/umair-ejaz-ai-engineer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/nusRying"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
 </p>
 
 <p align="center">
