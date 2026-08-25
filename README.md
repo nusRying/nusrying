@@ -1,192 +1,161 @@
-<p align="center">
-  <img src="game.gif" width="100%" alt="Umair Ejaz GitHub contribution space shooter" />
-</p>
+# Umair Ejaz
 
-<h1 align="center">Umair Ejaz</h1>
+**AI/ML Engineer | Computer Vision | RAG & Agentic AI | ML Research**
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&center=true&vCenter=true&width=720&lines=AI%2FML+Engineer+%7C+LLM+%26+RAG+Developer;Computer+Vision+%7C+Embedded+AI+%7C+Research;Building+intelligent+systems+from+prototype+to+production" alt="Typing introduction" />
-</p>
+I build end-to-end AI systems across **computer vision, machine learning, RAG, agentic workflows, and intelligent automation**.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/umair-ejaz-ai-engineer"><img src="https://img.shields.io/badge/LinkedIn-Umair%20Ejaz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:engr.umairejaz@gmail.com"><img src="https://img.shields.io/badge/Email-engr.umairejaz%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/nusRying"><img src="https://img.shields.io/badge/GitHub-nusRying-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <img src="https://komarev.com/ghpvc/?username=nusRying&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile views" />
-</p>
+I currently work across **AI engineering and applied machine-learning research** while pursuing an **MPhil in Computer and Information Sciences at Auckland University of Technology**. My background in Electrical Engineering, embedded systems, signal processing, control, and autonomous systems gives me a strong engineering foundation for developing AI solutions that connect software intelligence with real-world systems.
+
+[LinkedIn](https://www.linkedin.com/in/umair-ejaz-ai-engineer) · [Email](mailto:engr.umairejaz@gmail.com)
 
 ---
 
-## 👋 About
+## Focus Areas
 
-I build **production AI systems** that connect machine learning research with real-world software and hardware.
-
-- 🤖 **LLMs & Agents:** RAG, agentic workflows, LangChain/LangGraph, automation, evaluation, vector search
-- 👁️ **Computer Vision:** detection, OCR, medical imaging, document forensics, classical + deep vision
-- ⚙️ **Embedded & Control:** STM32, ESP32, sensors, motor control, signal processing, reinforcement-learning control
-- ☁️ **Production Engineering:** FastAPI, Node.js, Docker, PostgreSQL, Supabase, CI/CD, cloud deployment
-- 🔬 **Research:** interpretable evolutionary learning for skin-lesion classification
-
-> Currently working across **production AI engineering** and an **MPhil in Computer and Information Sciences at Auckland University of Technology**.
+* **Computer Vision** — object detection, OCR, image analysis, medical imaging, document forensics
+* **Machine Learning** — classification, deep learning, model evaluation, reinforcement learning, interpretable ML
+* **RAG & Agentic AI** — retrieval systems, AI agents, tool-integrated workflows, LLM applications
+* **AI Engineering** — APIs, backend services, asynchronous workflows, databases, containers, deployment
+* **Intelligent Systems** — embedded systems, signal processing, control, sensors, autonomous systems
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### [IDGuard Forensics](https://github.com/nusRying/IDGuard-Forensics)
 
-### 🛡️ [IDGuard Forensics](https://github.com/nusRying/IDGuard-Forensics)
-AI-powered identity-document forensics using computer vision, OCR, structural checks, scoring pipelines, and trust-based analysis.
+End-to-end document-forensics system combining **computer vision, object detection, OCR, classical image analysis, machine learning, and trust-based decision pipelines**.
 
-**Stack:** FastAPI · YOLOv8 · EasyOCR · OpenCV · React · TypeScript · Docker
-
-<a href="https://github.com/nusRying/IDGuard-Forensics"><img src="https://img.shields.io/github/stars/nusRying/IDGuard-Forensics?style=social" alt="IDGuard stars" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🔬 [ExTRaCS Skin-Lesion Classification](https://github.com/nusRying/ExTRaCS-Skin-Lesion-Classification_ISIC2019)
-Interpretable skin-lesion classification research using evolutionary Learning Classifier Systems and ISIC 2019 data.
-
-**Focus:** interpretability · feature construction · rule learning · medical imaging
-
-<a href="https://github.com/nusRying/ExTRaCS-Skin-Lesion-Classification_ISIC2019"><img src="https://img.shields.io/github/stars/nusRying/ExTRaCS-Skin-Lesion-Classification_ISIC2019?style=social" alt="ExTRaCS stars" /></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🛰️ [SATCOM DVB-S2X](https://github.com/nusRying/SATCOM-DVBS2X)
-Satellite communication simulation and experimentation around DVB-S2/S2X, coded links, BER analysis, and signal-processing workflows.
-
-**Stack:** Python · MATLAB/Simulink · communications · signal processing
-
-<a href="https://github.com/nusRying/SATCOM-DVBS2X"><img src="https://img.shields.io/github/stars/nusRying/SATCOM-DVBS2X?style=social" alt="SATCOM stars" /></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ [VisionVault CV Suite](https://github.com/nusRying/VisionVault-CV-Suite)
-A computer-vision project suite covering practical vision pipelines and reusable experimentation workflows.
-
-**Focus:** computer vision · image processing · ML pipelines · experimentation
-
-<a href="https://github.com/nusRying/VisionVault-CV-Suite"><img src="https://img.shields.io/github/stars/nusRying/VisionVault-CV-Suite?style=social" alt="VisionVault stars" /></a>
-
-</td>
-</tr>
-</table>
+**Technologies:**
+`Python` · `FastAPI` · `YOLOv8` · `EasyOCR` · `OpenCV` · `Scikit-learn` · `React` · `TypeScript` · `Docker`
 
 ---
 
-## 🔬 Research Focus
+### [AI-Driven Repurposing Engine](https://github.com/nusRying/AI-Driven-Repurposing-Engine)
 
-### Interpretable Skin-Lesion Classification
+Full-stack AI orchestration platform integrating **content ingestion, transcription, retrieval, LLM-based generation, human review, voice synthesis, and automated media generation**.
 
-My MPhil research explores an efficient and interpretable framework combining:
-
-`Lightweight Vision Transformers` · `ExSTraCS / LCS` · `Boolean Code Fragments` · `IF–THEN Rules` · `Handcrafted Features` · `Feature Transfer` · `Classifier Transfer`
-
-The aim is to develop models that are not only accurate, but also **human-interpretable, computationally efficient, and suitable for constrained inference environments**.
+**Technologies:**
+`Python` · `FastAPI` · `RAG` · `LLMs` · `Celery` · `Redis` · `Supabase` · `Next.js` · `Docker`
 
 ---
 
-## 🧰 Technology Arsenal
+### [VisionVault CV Suite](https://github.com/nusRying/VisionVault-CV-Suite)
 
-### AI / ML / Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" alt="AI and computer vision skills" />
-</p>
+Unified computer-vision engineering workspace covering **gesture recognition, optical-flow tracking, air writing, camera calibration, medical image analysis, regression testing, and model export**.
 
-`Scikit-learn` · `Transformers` · `YOLO` · `MediaPipe` · `ONNX` · `Hugging Face` · `NumPy` · `Pandas`
-
-### LLMs / Agents / Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,redis,supabase" alt="Backend skills" />
-</p>
-
-`LangChain` · `LangGraph` · `RAG` · `RAGAS` · `MCP` · `OpenAI API` · `Claude API` · `n8n` · `pgvector` · `WebSockets`
-
-### Systems / Cloud / DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,bash,docker,kubernetes,githubactions,aws,azure,linux,git" alt="Systems and DevOps skills" />
-</p>
-
-`STM32` · `ESP32` · `Arduino` · `MATLAB/Simulink` · `PCB Design` · `Motor Control` · `Sensor Fusion` · `Hetzner` · `Coolify`
+**Technologies:**
+`Python` · `OpenCV` · `Machine Learning` · `MediaPipe` · `U-Net` · `ONNX` · `Streamlit` · `CI`
 
 ---
 
-## 💼 Experience
+### [ExTRaCS Image Classification](https://github.com/nusRying/ExTRaCS-Image-Classification)
 
-| Role | Focus |
-|---|---|
-| **AI Engineer — Kutraa** | Production LLM agents, automation products, multi-tenant infrastructure, analytics, deployment |
-| **Freelance AI Engineer — Upwork** | RAG systems, AI automation, computer vision, generative AI, full-stack AI delivery |
-| **UAS & Payloads Design Engineer — NASTP** | DVB-S2/S2X, LDPC chains, inertial navigation, IMU fusion, Kalman filtering |
-| **Mitacs Globalink Research Intern — Toronto Metropolitan University** | Embedded motor control, haptics, PCB design, real-time hardware systems |
+Research-oriented machine-learning repository exploring **interpretable image classification, feature engineering, cross-validation, and Learning Classifier System experimentation** on skin-lesion datasets.
+
+**Technologies:**
+`Python` · `ExSTraCS` · `Scikit-learn` · `OpenCV` · `LBP` · `GLCM` · `Wavelets` · `Medical Imaging`
 
 ---
 
-## 🎓 Education
+### [SATCOM DVB-S2X](https://github.com/nusRying/SATCOM-DVBS2X)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+DVB-S2/S2X transmitter-receiver testbench for experimentation with **digital communications, signal-processing pipelines, coded links, loopback testing, and system validation**.
 
-### 🎓 MPhil — Computer & Information Sciences
-**Auckland University of Technology, New Zealand**  
-2026–2027
-
-Researching interpretable and efficient machine learning for medical image classification.
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Bachelor — Electrical Engineering
-**National University of Sciences and Technology, Pakistan**  
-2021–2025
-
-Embedded systems, control, signal processing, electronics, and machine learning.
-
-</td>
-</tr>
-</table>
+**Technologies:**
+`Python` · `DVB-S2/S2X` · `Signal Processing` · `Digital Communications` · `Pytest`
 
 ---
 
-## 📊 GitHub Dashboard
+## Current Work
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nusRying&theme=tokyonight" width="96%" alt="GitHub profile summary" />
-</p>
+### Research Officer — Auckland University of Technology
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nusRying&theme=tokyonight" height="180" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nusRying&theme=tokyonight" height="180" alt="Repositories per language" />
-</p>
+Developing and evaluating **interpretable machine-learning approaches for medical image classification**, with work spanning model generalization, knowledge transfer, robustness, and computational efficiency.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nusRying&theme=tokyonight" height="180" alt="Most committed languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nusRying&theme=tokyonight&utcOffset=12" height="180" alt="Productive coding time" />
-</p>
+### AI Engineer — Kutraa Company for Information Technology
+
+Developing **production-oriented AI systems** involving RAG, agentic workflows, intelligent automation, backend services, APIs, and deployment.
+
+### Freelance AI Engineer — Upwork
+
+Building client-focused solutions across **computer vision, RAG, AI agents, document processing, generative AI, workflow automation, and full-stack AI applications**.
 
 ---
 
-## 🤝 Build With Me
+## Technical Stack
 
-<p align="center">
-  I’m open to collaborations in <b>agentic AI, RAG, computer vision, medical imaging, embedded AI, intelligent automation, and interpretable machine learning</b>.
-</p>
+### AI & Machine Learning
 
-<p align="center">
-  <a href="mailto:engr.umairejaz@gmail.com"><img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Umair" /></a>
-  <a href="https://www.linkedin.com/in/umair-ejaz-ai-engineer"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/nusRying"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-</p>
+`Python` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `Deep Learning` · `Reinforcement Learning` · `Interpretable ML`
 
-<p align="center">
-  <b>⚡ AI · Research · Computer Vision · Embedded Systems · Production Engineering ⚡</b>
-</p>
+### Computer Vision
+
+`OpenCV` · `YOLO` · `OCR` · `EasyOCR` · `MediaPipe` · `Image Segmentation` · `ONNX` · `Medical Imaging`
+
+### RAG & Agentic AI
+
+`RAG` · `LangChain` · `LangGraph` · `AI Agents` · `Function Calling` · `MCP` · `Vector Search` · `LLM APIs` · `n8n`
+
+### Backend & Data
+
+`FastAPI` · `Node.js` · `PostgreSQL` · `Supabase` · `Redis` · `Celery` · `REST APIs` · `WebSockets`
+
+### Development & Deployment
+
+`Docker` · `Linux` · `Git` · `GitHub Actions` · `CI/CD` · `AWS` · `Azure` · `Cloud Deployment`
+
+### Engineering Foundation
+
+`C++` · `MATLAB/Simulink` · `STM32` · `ESP32` · `Embedded Systems` · `Signal Processing` · `PID Control` · `Sensor Integration` · `PCB Design`
+
+---
+
+## Research
+
+My current research focuses on **interpretable and computationally efficient machine learning for medical image classification**.
+
+Areas of interest include:
+
+* Interpretable machine learning
+* Medical image analysis
+* Knowledge and feature transfer
+* Model generalization
+* Robust experimental evaluation
+* Computationally efficient AI
+
+Current implementations and unpublished research methodology are maintained privately.
+
+---
+
+## Engineering Background
+
+Before moving primarily into AI and machine learning, my work included **UAS and autonomous systems, embedded control, satellite communications, signal processing, PCB development, motor control, and industrial electrical systems**.
+
+This engineering foundation continues to shape how I approach AI systems—particularly applications involving sensors, physical systems, computer vision, and real-world deployment.
+
+---
+
+## Education
+
+### Master of Philosophy — Computer and Information Sciences
+
+**Auckland University of Technology, New Zealand**
+2026 – Present
+
+Research focus: interpretable and efficient machine learning for medical image classification.
+
+### Bachelor of Electrical Engineering
+
+**National University of Sciences and Technology (NUST), Pakistan**
+2021 – 2025
+
+Relevant areas: embedded systems, control, signal processing, communications, electronics, programming, and machine learning.
+
+---
+
+## Connect
+
+**LinkedIn:** [linkedin.com/in/umair-ejaz-ai-engineer](https://www.linkedin.com/in/umair-ejaz-ai-engineer)
+**GitHub:** [github.com/nusRying](https://github.com/nusRying)
+**Email:** [engr.umairejaz@gmail.com](mailto:engr.umairejaz@gmail.com)
